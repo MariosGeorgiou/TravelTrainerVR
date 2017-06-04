@@ -2,7 +2,7 @@
 
 A mobile VR application that helps people with learning disabilities practice travelling by using an Intel Edison to gather behaviour data.
 
-A project built during the 24h Accessible Tech in Employment Hackathon (London 2017) | #ATEHack
+An award winning project built during the 24h Accessible Tech in Employment Hackathon (London 2017) | #ATEHack
 http://accessibletech.co.uk/
 
 ![travel_trainer](https://github.com/MariosGeorgiou/TravelTrainerVR/blob/master/images/cover.jpeg)
