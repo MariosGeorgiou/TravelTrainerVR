@@ -10,6 +10,7 @@ Learning disability travel training inspired project which utilises the Intel Ed
 
 # Use cases
 Some use cases were identified, where people with learning disabilities can practice in the virtual reality world before they attempt to do the journey in the real world.
+
 See the video [here](https://youtu.be/ybPIV7wpgEM) - https://youtu.be/ybPIV7wpgEM
 
 # Hackster.io
